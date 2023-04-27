@@ -1,15 +1,14 @@
 package proyectoEntornos;
 
 import java.util.regex.Pattern;
-
 import clases.Calcula;
-
 import java.util.regex.Matcher;
 import java.util.Scanner;
 
 public class ProyectoEntornos {
 
     public static void main(String[] args) {
+
         //declaro las variables que voy a necesitar
         int num1, num2, resultado;
         String operacion, Snum;
